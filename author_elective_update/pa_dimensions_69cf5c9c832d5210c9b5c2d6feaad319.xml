@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dimensions">
+    <pa_dimensions action="DELETE">
+        <active>true</active>
+        <conditions/>
+        <description/>
+        <empty_value/>
+        <facts_table>sys_user</facts_table>
+        <field>sys_id</field>
+        <manual_breakdown/>
+        <name>NeedIt Requested for</name>
+        <security_type>1</security_type>
+        <sys_class_name>pa_dimensions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-25 11:10:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>69cf5c9c832d5210c9b5c2d6feaad319</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Requested for</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_dimensions_69cf5c9c832d5210c9b5c2d6feaad319</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-25 11:10:19</sys_updated_on>
+    </pa_dimensions>
+    <sys_translated_text action="DELETE" query="documentkey=69cf5c9c832d5210c9b5c2d6feaad319"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>e5aa6f1d1b8a861465324089bd4bcbae</instance_id>
+        <instance_name>dev265496</instance_name>
+        <name>pa_dimensions_69cf5c9c832d5210c9b5c2d6feaad319</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dimensions"><pa_dimensions action="INSERT_OR_UPDATE"><active>true</active><conditions/><description/><empty_value/><facts_table>sys_user</facts_table><field>sys_id</field><manual_breakdown/><name>NeedIt Requested for</name><security_type>1</security_type><sys_class_name>pa_dimensions</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-25 11:10:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>69cf5c9c832d5210c9b5c2d6feaad319</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Requested for</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_dimensions_69cf5c9c832d5210c9b5c2d6feaad319</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-25 11:10:19</sys_updated_on></pa_dimensions><sys_translated_text action="delete_multiple" query="documentkey=69cf5c9c832d5210c9b5c2d6feaad319"/></record_update>]]></payload>
+        <payload_hash>-1872768412</payload_hash>
+        <record_name>NeedIt Requested for</record_name>
+        <reverted_from/>
+        <source>2b77985883e95210c9b5c2d6feaad33f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-25 11:10:19</sys_created_on>
+        <sys_id>a9cf5c9c832d5210c9b5c2d6feaad31c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192c35ebf5f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-25 11:10:19</sys_updated_on>
+        <type>Breakdown Source</type>
+        <update_guid>adcf5c9c682d5210c9ae356c7a8bf31b</update_guid>
+        <update_guid_history>adcf5c9c682d5210c9ae356c7a8bf31b:-1872768412</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt Requested for">7882a8d0836d5210c9b5c2d6feaad356</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-25 11:22:16</sys_created_on>
+        <sys_db_object display_value="" name="pa_dimensions">pa_dimensions</sys_db_object>
+        <sys_id>4549add51ca846aa93522676b2cd2c64</sys_id>
+        <sys_metadata>69cf5c9c832d5210c9b5c2d6feaad319</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Requested for</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_dimensions_69cf5c9c832d5210c9b5c2d6feaad319</sys_update_name>
+        <sys_update_version display_value="pa_dimensions_69cf5c9c832d5210c9b5c2d6feaad319">a9cf5c9c832d5210c9b5c2d6feaad31c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-25 11:22:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
